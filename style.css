@@ -1,0 +1,43 @@
+body {
+	font-family: Arial;
+}
+main {
+	padding: 12px;
+    margin: 20px;
+  	background: #ADD8E6;
+  	border-radius: 15px;
+}
+h1 {
+	text-align: center;
+  	color: #000000;
+    margin: 20px 0 10px 0;
+    background-color: #FFD600;
+    padding: 25px 10px 20px 10px;
+  	border-radius: 70px 70px 0 0;
+}
+h2 {
+	margin: 15px 0 8px 0;
+	padding: 12px 14px;
+}
+p {
+	margin: 0 0 10px 0;
+	padding: 8px 12px;
+  	border-radius: 12px;
+  	font-family: Arial;  
+}
+.vip {
+	background-color: #4929b4;
+	border-left: 10px double #FFD700;
+}
+.kids {
+	background-color: #22ab74;
+	border-left: 10px double #008000;
+}
+.fire {
+	background-color: #FFD700;
+	border-left: 10px double #C84153;
+}
+.tigers {
+	background-color: #FFA500;
+	border-left: 10px double #000000;
+}
